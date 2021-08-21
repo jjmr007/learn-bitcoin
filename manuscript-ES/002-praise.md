@@ -19,4 +19,3 @@
 > "Anita Posch es una de las voces inspiradoras en el entorno de Bitcoin. Su enfoque inclusivo y su estilo de escritura atractivo ofrecerán un comienzo fácil tanto para los principiantes como para los expertos en Bitcoin y las comunidades de las criptomonedas. Excelente lectura para cualquier persona interesada en todo lo relacionado con las criptomonedas." - **Jukka Blomberg, Director de Marketing de LocalBitcoins**
 
 
-

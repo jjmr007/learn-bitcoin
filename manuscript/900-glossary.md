@@ -47,7 +47,7 @@ A system of equally privileged, equipotent participants without a hierarchy on t
 The action of a broker who pledges with a bank or other lender securities already left on deposit with him by a customer as a pledge for their purchase on margin.
 
 **Seed**
-12-24 words that in most of the wallets available in the market, produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
+12-24 words that in most of the wallets available in the market (HD wallets), produce all the private/public keys which will control your funds on the blockchain. Anyone with the seed has the control over these keys and therefore, over the funds on the associated addresses.
 
 **Surveillance capitalism**
 A term coined by Shoshana Zuboff. It describes the systematic commodification of personal data by centralized monopolistic companies with the core purpose of profit-making.
@@ -55,12 +55,12 @@ A term coined by Shoshana Zuboff. It describes the systematic commodification of
 **Wallet**
 Software or hardware that holds all your bitcoin addresses and private keys. Use it to send, receive, and store your bitcoin.
 
-[^79]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)
-[^80]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)
-[^81]: [Fiat money on Wikipedia](https://en.wikipedia.org/wiki/Fiat_money)
-[^82]: [IMF on Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund)
-[^83]: [Lender of last resort on Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort)
-[^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)
-[^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp)
-[^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp)
+[^79]: [Cantillon Effect on Wikipedia](https://en.wikipedia.org/wiki/Richard_Cantillon)  
+[^80]: [Central bank on Wikipedia](https://en.wikipedia.org/wiki/Central_bank)  
+[^81]: [Fiat money on Wikipedia](https://en.wikipedia.org/wiki/Fiat_money)  
+[^82]: [IMF on Wikipedia](https://en.wikipedia.org/wiki/International_Monetary_Fund)  
+[^83]: [Lender of last resort on Wikipedia](https://en.wikipedia.org/wiki/Lender_of_last_resort)  
+[^84]: [Monetary Base](https://www.investopedia.com/terms/m/monetarybase.asp)  
+[^85]: [M1 Money](https://www.investopedia.com/terms/m/m1.asp)  
+[^86]: [M2 Money](https://www.investopedia.com/terms/m/m2.asp)  
 [^87]: [Panopticon on Wikipedia](https://en.wikipedia.org/wiki/Panopticon)
