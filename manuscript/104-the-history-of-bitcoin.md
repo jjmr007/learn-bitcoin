@@ -16,7 +16,7 @@ Parts of the following concepts were incorporated into Satoshi Nakamoto's Bitcoi
 
 ![Cryptocurrency projects before Bitcoin](assets/_History-of-Bitcoin.png)[^22]
 
-**Public and Private Key Pairs**
+**Public and Private Key Pairs**  
 In 1990 David Chaum was concerned with the public nature and open access to online payments and personal information. He founded "Digicash", a corporation and electronic money of the same name, which used cryptographic protocols as well as private and public keys to anonymize transactions. The use of signatures - public and private key pairs - became essential in the further development of electronic money and Bitcoin.
 
 **Proof-of-Work**
@@ -28,7 +28,7 @@ In 1997 Adam Back proposed a similar idea called "Hashcash". Satoshi Nakamoto im
 
 The term "proof-of-work" was first coined and formalized in a 1999 paper by Markus Jakobsson and Ari Juels.
 
-**Decentralization**
+**Decentralization**  
 Hashcash was followed by "B-Money" by Wei Dai in 1998. His concept was the first to be based on a decentralized network of computers. This is baked into Bitcoin's peer-to-peer network with computers running the Bitcoin software as full nodes or miners. Peer-to-peer means a system of equally privileged, equipotent participants without a hierarchy on the network.
 
 A short time later, Nick Szabo published a paper on "BitGold", the first digital money system that was able to run without a central entity issuing the money. He is also the first person to present a paper on "Smart Contracts".
@@ -46,6 +46,6 @@ This is revolutionary - as soon as you start to verify your own bitcoin transact
 
 All people worldwide with an internet-enabled mobile phone have access to Bitcoin. The banks as we know them are not required for the use of Bitcoin. You don't have to ask anyone for permission to own or use Bitcoin. All you need to get started is a smartphone, an internet connection and a bitcoin wallet app.
 
-[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.
-[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.
+[^20]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 1.  
+[^21]: Collusion, by Nomi Prins, Bold Type Books, 2019, p. 247.  
 [^22]: Anita Posch, Source [The Merkle](https://themerkle.com/top-4-cryptocurrency-projects-created-ahead-of-bitcoin/), [Hashcash.org](http://www.hashcash.org/bitcoin/)
