@@ -129,6 +129,7 @@ No te limites a bloquear el dispositivo. Debes buscar actualizaciones del softwa
 
 ### Pérdida, Robo o Mal Funcionamiento de Tu Dispositivo
 
+
 Si te roban tu dispositivo, recuerda que tus bitcoins todavía figuran en la cadena de bloques bajo tus llaves privadas. Dado que estableciste un PIN de acceso para la cartera, el ladrón no puede abrirla. Sin embargo, todavía intentarán encontrar una manera de descifrar tu PIN.
 
 Debes instalar inmediatamente una nueva cartera e importar la semilla que mantuvo a salvo para recuperar el acceso a tus fondos (consulta "restaurar cartera"). Luego, mueve las monedas de tu cartera robada a una nueva dirección de Bitcoin en tu nueva cartera tan pronto como puedas, repitiendo los mismos procedimientos de configuración de seguridad para la nueva cartera.
