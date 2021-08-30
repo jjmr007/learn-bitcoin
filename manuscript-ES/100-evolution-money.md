@@ -38,7 +38,7 @@ Esto es particularmente importante porque demuestra un uso natural de un libro m
 
 Otra similitud con Bitcoin está en la creación de las piedras Rai, que resultaba de un trabajo intenso y una forma de prueba de trabajo. Las piedras se tallaron con herramientas manuales, se extrajeron en costas foráneas y se llevaron a la isla en canoa. Una vez que las piedras Rai se volvieron fáciles de fabricar con técnicas modernas, se volvieron menos útiles como dinero, porque ya no eran un indicador confiable del suficiente gasto de energía.
 
-Los economistas modernos han considerado las piedras Rai como una forma primitiva de dinero, y a menudo se utilizan como ejemplo para respaldar la tesis de que el valor de algunas formas de dinero puede asignarse simplemente a través de una creencia compartida en dicho valor.[^5] El dinero de hoy día tampoco está respaldado por nada. De hecho, solo está establecido y declarado como moneda de curso legal por reglamentación gubernamental. Por eso, es el medio de intercambio que utilizamos y, por lo tanto, se percibe como valioso.
+Los economistas modernos han considerado las piedras Rai como una forma primitiva de dinero, y a menudo se utilizan como ejemplo para respaldar la tesis de que el valor de algunas formas de dinero puede asignarse simplemente a través de una creencia compartida en dicho valor.[^5] El dinero de hoy día tampoco está respaldado por nada. De hecho, solo está establecido y declarado como moneda de curso legal por reglamentación gubernamental. Por eso, es referencia de valor que utilizamos y, por lo tanto, se percibe como valioso.
 
 
 ## Cómo se Crea el Dinero
