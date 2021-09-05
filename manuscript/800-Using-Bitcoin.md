@@ -44,7 +44,7 @@ You can use a Bitcoin debit card to buy anything just like any other banking deb
 
 You will need to deposit your bitcoin at the debit card company, which means you give control over your coins to a third party. Deposit only as much as you need on the card and check the fees that those card companies charge.
 
-A short list of cards that are available at the moment:
+A short list of cards that are available at the moment:  
 Cryptocom Visa, Binance, Bitpanda Visa, Coinbase Visa, Wirex Visa, BlockCard, Cryptopay, Nexo, Bitwala Visa, BitPay Visa, Cash App
 
 ## Spending and Receiving
@@ -55,7 +55,7 @@ The following are tools and services that enable you to spend and receive BTC in
 * [Piixpay](https://www.piixpay.com/?lang=en) pay anyone in EURO using your crypto
 * [Bitrefill](https://www.bitrefill.com/?hl=en) buy giftcards and phone refills
 
-[^74]: [Screenshot by Anita Posch](https://mempool.space)
-[^75]: Screenshot by Anita Posch, Edge wallet
-[^76]: Screenshot by Anita Posch, Edge wallet
-[^77]: Screenshot by Anita Posch, Blockchair
+[^74]: [Screenshot by Anita Posch](https://mempool.space)  
+[^75]: Screenshot by Anita Posch, Edge wallet  
+[^76]: Screenshot by Anita Posch, Edge wallet  
+[^77]: Screenshot by Anita Posch, Blockchair  
