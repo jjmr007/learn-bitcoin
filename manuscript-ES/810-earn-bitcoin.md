@@ -19,7 +19,7 @@ Gana satoshis completando pequeñas tareas.
 * [Bitwage](https://www.bitwage.com/); como empleado o autónomo, puedes ganar tu salario en bitcoins en lugar de fiat. Los empleadores también pueden usar este servicio para pagar a su equipo de trabajo en bitcoins. [Entrevista con el fundador Jonathan Chester](https://anita.link/106).
 
 ## Recibir Donaciones o Pagos
-Como organización sin fines de lucro, blogger o podcaster, tu puedes recibir fácilmente propinas en bitcoins/satoshis mediante estos servicios:
+Como organización sin fines de lucro, como blogger o podcaster, tu puedes recibir fácilmente propinas en bitcoins/satoshis mediante estos servicios:
 
 * [Tippin.me](https://tippin.me/); te permite recibir propinas de bitcoin a través de la tred lightning en tu propio sitio web y por Twitter sin cargos.  
 * [Tallyco.in](https://tallyco.in/); es una plataforma de financiación colectiva construida sobre la cadena de bloques de Bitcoin. Puedes recibir pagos en BTC y micropagos a través de la red Lightning sin comisiones.
@@ -44,7 +44,7 @@ Con la llegada de Lightning Network, se ha inventado un nuevo método verdaderam
 
 ## Comercio
 * [Breez](https://breez.technology/#business); aplicación de punto de venta fácil de usar para comerciantes, restaurantes, cafés… para comenzar a aceptar pagos con bitcoins.
-* [BTC Pay Server](https://btcpayserver.org/) es un procesador de pago de criptomonedas de código abierto y autohospedado para comercio electrónico. Es seguro, privado, resistente a la censura y gratuito. Puedes conectarlo a tu tienda en línea, generar facturas para tu contabilidad y ganar bitcoins a través de la red lightning. Con integraciones para WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.  
+* [BTC Pay Server](https://btcpayserver.org/) es un procesador de pago de criptomonedas de código abierto y auto-hospedado para comercio electrónico. Es seguro, privado, resistente a la censura y gratuito. Puedes conectarlo a tu tienda en línea, generar facturas para tu contabilidad y ganar bitcoins a través de la red lightning. Con integraciones para WooCommerce, Shopify, Drupal, Magento, PrestaShop, Shopware.  
 * [Confirmo](https://confirmo.net/) acepta pagos con complementos para tiendas en línea populares.  
 * [Globee](https://globee.com/); acepta bitcoins con GloBee, ofrecen complementos de código abierto para todas las principales plataformas de comercio electrónico por una comisión (solución bajo custodia).
 * [OpenNode](https://www.opennode.com/); pagos de bitcoin y pagos para empresas, complementos de comercio electrónico, páginas de pago alojadas (solución bajo custodia).
