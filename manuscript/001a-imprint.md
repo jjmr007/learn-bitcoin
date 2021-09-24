@@ -12,7 +12,7 @@ Typesetting: Couper Street Type Co.
 Cover Design/Art Direction: tzu jan | 自然  
 Illustration Concept Sketch: @danubastidas  
 Illustration: Maleek Illustration  
-Hand Lettering: Mila Masina
+Hand Lettering: Mila Masina  
 
 Copyright 2021 by Anita Posch, all rights reserved.
 

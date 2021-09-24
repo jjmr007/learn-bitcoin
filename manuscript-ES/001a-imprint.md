@@ -7,12 +7,13 @@ Autor: Anita Posch
 
 Editorial: PoshMedia e.U., Seilerstaette 24, 4. Stock, 1010 Wien
 
-Editor: Mark Kersley
-Tipografía: Couper Street Type Co.
-Diseño de Portada/Dirección de Arte: tzu jan | 自然
-Boceto del Concepto de Ilustración: @danubastidas
-Ilustración: Ilustración de Maleek
-Rotulación a Mano: Mila Masina
+Editor: Mark Kersley  
+Tipografía: Couper Street Type Co.  
+Diseño de Portada/Dirección de Arte: tzu jan | 自然  
+Boceto del Concepto de Ilustración: @danubastidas  
+Traducción al Epañol: Julio Moros (Telegram: @jjmr009)  
+Ilustración: Ilustración de Maleek  
+Rotulación a Mano: Mila Masina  
 
 Copyright 2021 de Anita Posch, todos los derechos reservados.
 
