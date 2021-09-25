@@ -91,7 +91,6 @@ Para comprar bitcoins sin necesidad de identificarnos con nadie como usuarios, p
   * [LocalCoinSwap](https://localcoinswap.com/buy-sell/BTC)  
   * [LocalCryptos](https://localcryptos.com/Bitcoin)  
   * [Sovryn](https://live.sovryn.app)  
-  **Nota**: Si bien Sovryn no exige KYC, la empresa que le presta servicios como procesador de pagos para comprar bitcoins con dinero fiat, [Transak](https://transak.com/) si nos exigirá identificarnos.
 
 Fuentes de casa de cambio: https://kycnot.me/, https://github.com/cointastical/P2P-Trading-Exchanges/, https://bitcoiner.guide/nokyconly/
 
